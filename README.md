@@ -1,11 +1,57 @@
-- 👋 Hi, I’m faizur Rahaman
-- 👀 I’m interested in "Driven to Solve Problems with Data | Python, SQL & Data Analytics Explorer | Aspiring Data Scientist Focused on Practical Solutions". 
-- 🌱 I’m currently learning 100 days of code: The Python Pro Bootcamp to become professional coder and developing some real-world projects in it .
-- 📫 Reach out to me at ........> faizurrahamanshaik@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm perfectionist
+# 👋 Hi, I'm Faizur Rahaman
 
-<!---
-faizur55/faizur55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Electronics & Communication Engineering Grad | 🎯 Aspiring Data Scientist  
+💻 Python Developer • Machine Learning Enthusiast • EDA & Model Building Expert  
+📍 Based in Rayachoty, Andhra Pradesh | 🌐 Open to relocation & remote work
+
+---
+
+## 🚀 About Me
+
+I'm a tech-driven problem solver with a deep passion for data science, machine learning, and Python development.  
+Over the last year, I've applied my skills in real-world projects including accident severity prediction, housing price estimation, and object detection with drone simulations.
+
+I thrive on:
+- Turning raw data into actionable insights
+- Building models that make intelligent predictions
+- Writing clean, readable, and efficient Python code
+
+Currently seeking opportunities to contribute to data-driven teams and grow as a data scientist!
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools:**  
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Plotly`  
+`Flask` `HTML` `CSS` `Bootstrap` `Git` `Jupyter` `Google Colab` `VS Code` `PyCharm'
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🚗 US Accidents Severity Prediction](https://github.com/faizur55/SkillCraftTechnology_DS01-04) | ML pipeline to classify accident severity using 7.7M+ records | Python, Scikit-learn |
+| [🏠 Boston Housing Price Prediction](https://github.com/faizur55/Boston-Housing-Price-Prediction) | Regression model to estimate house prices | Python, Pandas |
+| [🚁 Object Detection with Drone in Unity] | Simulated YOLOv5 object tracking via Unity | Unity, YOLOv5, Python |
+
+---
+
+## 📜 Certifications
+
+- **100 Days of Code: Python Bootcamp** – Udemy  
+- **Deep Learning for Developers** – Infosys Springboard  
+- **Mobile App Dev Bootcamp** – Brain O Vision
+
+---
+
+## 📬 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/faizurrahaman27)
+- 💻 [GitHub](https://github.com/faizur55)
+- 📧 [Email](mailto:faizurrahamanshaik@gmail.com)
+
+---
+
+_“The goal is not to be better than someone else, but to be better than you used to be.”_
