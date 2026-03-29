@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faizur Rahaman
 Machine learning Engineer  
-📍 Based in Rayachoty, Andhra Pradesh | 🌐 Open to relocation & remote work
+Bengaluru,Karnataka| 🌐 Open to relocation & remote work
 
 ---
 
@@ -21,8 +21,12 @@ Currently seeking opportunities to contribute to data-driven teams and grow as a
 ## 🧰 Tech Stack
 
 **Languages & Tools:**  
-`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Plotly`  
-`Flask` `HTML` `CSS` `Bootstrap` `Git` `Jupyter` `Google Colab` `VS Code` `PyCharm'
+Python,SQL,
+Pandas,Numpy,Matplotlib,Seaborn,,Plotly,
+Scikit -Learn,
+HTML,CSS,Bootstrap,Flask,
+Git,Github,
+Jupyter,Google Colab,VS code,Pycharm`
 
 ---
 
