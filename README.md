@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Faizur Rahaman
-
-🎓 Electronics & Communication Engineering Grad | 🎯 Aspiring Data Scientist  
-💻 Python Developer • Machine Learning Enthusiast • EDA & Model Building Expert  
+Machine learning Engineer  
 📍 Based in Rayachoty, Andhra Pradesh | 🌐 Open to relocation & remote work
 
 ---
